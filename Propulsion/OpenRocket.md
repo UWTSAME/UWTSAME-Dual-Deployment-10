@@ -1,9 +1,9 @@
 # Open Rocket
-location of all open rocket files
+Simulation Descriptions
 
 ### Simulations
 Sim 1 description\
-{link here}
+file location" UWTSAME-Dual-Deployment-10/Propulsion/OpenRocket/{simName}\
 
 Sim 2 description\
-{link here}
+file location: UWTSAME-Dual-Deployment-10/Propulsion/OpenRocket/{simName}
